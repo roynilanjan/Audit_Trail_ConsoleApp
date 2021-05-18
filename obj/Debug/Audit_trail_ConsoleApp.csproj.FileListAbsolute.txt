@@ -1,0 +1,14 @@
+C:\Users\royn2\source\repos\Audit_trail_ConsoleApp\obj\Debug\Audit_trail_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\royn2\source\repos\Audit_trail_ConsoleApp\bin\Debug\Audit_trail_ConsoleApp.exe.config
+C:\Users\royn2\source\repos\Audit_trail_ConsoleApp\bin\Debug\Audit_trail_ConsoleApp.exe
+C:\Users\royn2\source\repos\Audit_trail_ConsoleApp\bin\Debug\Audit_trail_ConsoleApp.pdb
+C:\Users\royn2\source\repos\Audit_trail_ConsoleApp\bin\Debug\EntityFramework.dll
+C:\Users\royn2\source\repos\Audit_trail_ConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\royn2\source\repos\Audit_trail_ConsoleApp\bin\Debug\Z.EntityFramework.Plus.Audit.EF6.dll
+C:\Users\royn2\source\repos\Audit_trail_ConsoleApp\bin\Debug\EntityFramework.xml
+C:\Users\royn2\source\repos\Audit_trail_ConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\royn2\source\repos\Audit_trail_ConsoleApp\bin\Debug\Z.EntityFramework.Plus.Audit.EF6.xml
+C:\Users\royn2\source\repos\Audit_trail_ConsoleApp\obj\Debug\Audit_trail_ConsoleApp.csproj.CopyComplete
+C:\Users\royn2\source\repos\Audit_trail_ConsoleApp\obj\Debug\Audit_trail_ConsoleApp.exe
+C:\Users\royn2\source\repos\Audit_trail_ConsoleApp\obj\Debug\Audit_trail_ConsoleApp.pdb
+C:\Users\royn2\source\repos\Audit_trail_ConsoleApp\obj\Debug\Audit_trail_ConsoleApp.csprojAssemblyReference.cache
